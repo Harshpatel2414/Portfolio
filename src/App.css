@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+.btn{
+  @apply hover:border-b-2  py-1 px-4 hover:ring-2 hover:rounded-lg hover:ring-emerald-300 hover:font-bold text-emerald-300;
+}

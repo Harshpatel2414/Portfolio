@@ -47,8 +47,8 @@ const Reviews = () => {
                 </div>
                 <h4 className='author'>{name}</h4>
                 <p className='job'>{job}</p>
-                <p className='text-gray-400 text-center sm:w-2/3 py-2'>{text}</p>
-                <div className='my-4 gap-4 flex'>
+                <p className='text-gray-400 text-center sm:w-2/3 p-2'>{text}</p>
+                <div className='my-4 gap-8 flex'>
                     <button className='prev-btn' onClick={prevPerson}>
                         <FaChevronLeft className='text-emerald-300'/>
                     </button>

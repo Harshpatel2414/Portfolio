@@ -7,7 +7,7 @@ const Hero = () => {
         <div id='home' className='bg-emerald-100 py-24 px-5'>
             <div className='align-element grid sm:grid-cols-2 items-center gap-8'>
                 <article id='hero1'>
-                    <h1 className='text-7xl font-bold tracking-wider'>I'm Harsh</h1>
+                    <h1 className='text-7xl font-bold tracking-wider'>I'm Harshal</h1>
                     <p className='mt-4 text-3xl text-slate-700 capitalize tracking-wide'>
                         Front-End Developer
                     </p>
